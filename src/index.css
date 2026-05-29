@@ -1,0 +1,24 @@
+/* For the whole page / main style 
+c45f3f - red
+ffc0c0 - pink
+d1caea - purple
+d6d35f - light green
+f4d242 - yellow
+008471 - dark green
+80b0e8 - light blue
+f0be56 - golden orange
+
+
+*/
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Shrikhand&display=swap');
+
+body {
+  background-color: #d1caea;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
